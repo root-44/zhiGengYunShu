@@ -71,7 +71,23 @@ npm run build  # 构建生产版本
 
 ## 截图展示
 
-> TODO: 补充运行截图（3D 地图主界面 / 设备管理 / AI 助手问答）
+### 3D 数据可视化大屏
+
+![大屏主界面](docs/screenshots/dashboard-main.png)
+
+### 大棚详情
+
+![大棚详情 1](docs/screenshots/greenhouse-detail-1.png)
+
+![大棚详情 2](docs/screenshots/greenhouse-detail-2.png)
+
+### 智能服务
+
+![智能服务](docs/screenshots/smart-service.png)
+
+### 交流社区
+
+![交流社区](docs/screenshots/community.png)
 
 ---
 
