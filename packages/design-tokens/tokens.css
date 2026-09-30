@@ -1,0 +1,31 @@
+:root {
+  --font-family-base: Inter, "Microsoft YaHei", "PingFang SC", Arial, sans-serif;
+
+  --color-brand-primary: #1f8f4d;
+  --color-brand-primary-hover: #187a41;
+  --color-brand-primary-soft: #e7f6ec;
+  --color-surface-default: #ffffff;
+  --color-surface-subtle: #f5f8f6;
+  --color-surface-muted: #eef4f1;
+  --color-text-strong: #18342a;
+  --color-text-default: #285243;
+  --color-text-muted: #6b8177;
+  --color-border-subtle: #d9e6df;
+  --color-status-success: #1f9d55;
+  --color-status-warning: #c27803;
+  --color-status-danger: #d64545;
+  --color-status-info: #2476c2;
+
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+
+  --shadow-panel: 0 10px 30px rgba(24, 52, 42, 0.08);
+  --shadow-focus: 0 0 0 3px rgba(31, 143, 77, 0.18);
+}
